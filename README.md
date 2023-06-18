@@ -18,4 +18,7 @@
 <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=jashanpsingh&theme=radical&langs_count=10&card_width=360&layout=compact" alt="Most used languages">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jashanpsingh)](https://github.com/ryo-ma/github-profile-trophy)
-![GodkingJay's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jashanpsingh&custom_title=Jashanpreet's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jashanpsingh&custom_title=Jashan's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" width="100%">
+</div>
+
